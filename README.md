@@ -35,5 +35,3 @@ DISCORD_TOKEN="YOUR_BOT_TOKEN"
 
 >[!NOTE]
 > You can also use the **.env** file to store API keys for any additional services your bot may use. This helps keep sensitive information organized and protected.
-
----
