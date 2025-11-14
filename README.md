@@ -22,7 +22,7 @@ pip install discord.py python-dotenv
 ### 2. Download the Project
 Use the following commands to clone the repository and access the project folder:
 ```sh
-git clone https://github.com/user/repo.git awesome-bot
+git clone https://github.com/minmcastelo/dsetup-bot awesome-bot
 cd awesome-bot
 ```
 If you want, you can download the repository as a Zip file from GitHub.
