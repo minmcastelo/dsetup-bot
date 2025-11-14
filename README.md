@@ -5,7 +5,6 @@ A basic template for creating a Discord bot.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
 
-
 ## Useful Links for Building the Bot
 
 + **[Python](https://www.python.org/downloads/)** required to run the bot’s code
@@ -26,6 +25,7 @@ Use the following commands to clone the repository and access the project folder
 git clone https://github.com/user/repo.git awesome-bot
 cd awesome-bot
 ```
+If you want, you can download the repository as a Zip file from GitHub.
 
 ### 3. Set Up the Bot Token
 After opening the project, find the **.env** file and add your bot’s token to the variable shown below:
