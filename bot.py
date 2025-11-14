@@ -20,7 +20,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 # Fires when the bot successfully logs in
 @bot.event
 async def on_ready():
-    print(f"Bot online como {bot.user}")  # Prints the bot's username for confirmation
+    print(f"Bot {bot.user} Online!")  # Prints the bot's username for confirmation
 
 # A simple test command: replies "pong!" when someone types !ping
 @bot.command()
@@ -29,3 +29,4 @@ async def ping(ctx):
 
 # Starts the bot using the token
 bot.run(token)
+
