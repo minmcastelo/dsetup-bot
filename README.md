@@ -8,7 +8,7 @@ A basic template for creating a Discord bot.
 
 ## Useful Links for Building the Bot
 
-+ **[Python](https://www.python.org/install)** required to run the bot’s code
++ **[Python](https://www.python.org/downloads/)** required to run the bot’s code
 + **[Git](https://git-scm.com/install/)** used to clone and manage the project repository
 + **[Discord Development Portal](https://discord.com/developers/applications)** where you create and configure your Discord application
 
